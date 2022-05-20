@@ -2,13 +2,13 @@ import React from "react";
 import styled from "styled-components";
 
 const Title = styled.h1`
-  color: blue;
+  color: hotpink;
 `;
 
 const App = () => {
   return (
     <div>
-      <Title>hello world!!</Title>
+      <Title>hello react!!</Title>
     </div>
   );
 };
